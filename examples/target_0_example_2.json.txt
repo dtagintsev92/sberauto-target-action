@@ -1,0 +1,20 @@
+{
+  "session_id": "9055455318486370642.1640843788.1640843788",
+  "client_id": "2108387490.1640844",
+  "visit_date": "2021-12-30T00:00:00+00:00",
+  "visit_time": "08:56:28",
+  "visit_number": 1,
+  "utm_source": "TxKUcPpthBDPieTGmVhx",
+  "utm_medium": "cpc",
+  "utm_campaign": "FTjNLDyTrXaWYgZymFkV",
+  "utm_adcontent": "LcGIUNPUAmXtQJaDfFBR",
+  "utm_keyword": "PwscUHjoUJDrtfWESIHj",
+  "device_category": "tablet",
+  "device_os": "Android",
+  "device_brand": "Lenovo",
+  "device_model": null,
+  "device_screen_resolution": "602x1029",
+  "device_browser": "YaBrowser",
+  "geo_country": "Russia",
+  "geo_city": "Saint Petersburg"
+}

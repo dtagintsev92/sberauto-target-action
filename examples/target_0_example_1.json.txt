@@ -1,0 +1,20 @@
+{
+  "session_id": "905544597018549464.1636867290.1636867290",
+  "client_id": "210838531.16368672",
+  "visit_date": "2021-11-14T00:00:00+00:00",
+  "visit_time": "08:21:30",
+  "visit_number": 1,
+  "utm_source": "MvfHsxITijuriZxsqZqt",
+  "utm_medium": "cpm",
+  "utm_campaign": "FTjNLDyTrXaWYgZymFkV",
+  "utm_adcontent": "xhoenQgDQsgfEPYNPwKO",
+  "utm_keyword": "IGUCNvHlhfHpROGclCit",
+  "device_category": "mobile",
+  "device_os": "Android",
+  "device_brand": "Samsung",
+  "device_model": null,
+  "device_screen_resolution": "385x854",
+  "device_browser": "Samsung Internet",
+  "geo_country": "Russia",
+  "geo_city": "Moscow"
+}
